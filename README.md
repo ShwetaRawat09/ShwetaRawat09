@@ -55,13 +55,15 @@ Focused on building APIs that are easy to consume, easy to maintain, and ready f
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShwetaRawat09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaRawat09&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShwetaRawat09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShwetaRawat09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShwetaRawat09&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=ShwetaRawat09&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Contribution streak"/>
 </p>
+
+> If stats are temporarily unavailable due to API limits, open them directly: [Profile Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShwetaRawat09&show_icons=true) · [Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShwetaRawat09&layout=compact)
 
 ---
 
